@@ -27,6 +27,8 @@ The dashboard is designed to help the Supply Chain team monitor these service me
 ## Access the Dashboard
 
 You can view the interactive Power BI dashboard using the [Public Link](https://app.powerbi.com/view?r=eyJrIjoiNTg4MmQzMzUtYzk5MC00NmM1LWI2YjgtN2I2ZGM0ZmQzMjlkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=be291953a6aba2eb6d64)
+
+
 ## File Structure
 
 - **PowerBI_Project/**: Contains the Power BI file and related assets such as images and data files.
