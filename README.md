@@ -16,8 +16,13 @@ The dashboard is designed to help the Supply Chain team monitor these service me
 
 ## Dashboard Preview
 
-![Dashboard Preview 1](/Images/preview%201.png)
-![Dashboard Preview 2](/Images/preview%202.jpg)
+<p align="center">
+    <img src="/Images/preview%202.jpg" alt="Detailed Metrics"/>
+</p>
+
+<p align="center">
+    <b>Figure :</b> Overview Dashboard &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Access the Dashboard
 
